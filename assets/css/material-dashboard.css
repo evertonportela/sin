@@ -13022,3 +13022,20 @@ Copyright (c) 2015 Daniel Eden
     display: none !important; } }
 
 /*# sourceMappingURL=material-dashboard.css.map */
+
+.img-hu {
+    max-width:178px;
+    /*max-height:150px; */
+    width: auto;
+    height: auto;
+    float: right;
+    position: absolute;
+}
+
+.img-ufs {
+    max-width:178px;
+    /*max-height:150px; */
+    width: auto;
+    height: auto;
+    float: left;
+}
