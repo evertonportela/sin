@@ -15989,14 +15989,15 @@ textarea[resize='horizontal']
     letter-spacing: .05px; 
     text-transform: uppercase;
 }
+
 .navbar-brand img
 {
     height: 80px;
 }
 
-.logo-sin
+.logos-sin img
 {
-    text-align: center;
+    height: 120px;
 }
 
 .navbar-dark .navbar-brand
